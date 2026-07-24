@@ -1,0 +1,12 @@
+{
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjIiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTAuMC4yLmV4ZSIsInNoYTI1NiI6ImIxNmI4NDFiMjgyNTU5NTRiYjc3ZWFkM2FkNTJmN2YzYmFmYTZiOTViMzA5ZmY3ZTQ3MTM1NDJlYWJiMmE4ZmQiLCJzaXplIjo5MTQ4MDY3MiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21haGZvdWRoYTA5MS9tYXRqYXJpLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjAuMi9NYXRqYXJpLVNldHVwLTAuMC4yLmV4ZSIsIm5vdGVzIjoidGVzdCIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMDctMjRUMjE6NTg6MTguOTE4WiJ9.hvLyfx_jU1fR-CWWlOlq4QLuKW0-Xx9yMjt-BsfWOVVbvEXO4LskLF1RXNx-3ws3AMa93AVB-mwhLOKbzUbIBw",
+  "program": "Matjari",
+  "kind": "UPDATE",
+  "version": "0.0.2",
+  "file_name": "Matjari-Setup-0.0.2.exe",
+  "sha256": "b16b841b28255954bb77ead3ad52f7f3bafa6b95b309ff7e4713542eabb2a8fd",
+  "size": 91480672,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.2/Matjari-Setup-0.0.2.exe",
+  "notes": "test",
+  "published_at": "2026-07-24T21:58:18.918Z"
+}
