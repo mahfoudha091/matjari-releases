@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjQiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTAuMC40LmV4ZSIsInNoYTI1NiI6IjY3Njk2OGJjMDgwNTkzNzNkODQxNWQ5ZTFhMTMxMzczM2YxMmQzN2JjZWJlNzk3NDU5NmI3MjA1M2M5MWFjODAiLCJzaXplIjo5MTQ2OTEzMCwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21haGZvdWRoYTA5MS9tYXRqYXJpLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjAuNC9NYXRqYXJpLVNldHVwLTAuMC40LmV4ZSIsIm5vdGVzIjoi2KfZiNmEINmG2LPYrtipIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wNy0yNFQyMzowNzozMi41MTJaIn0.9rgXeA2k0gFtx2hLERa3-9_IXPxcEGbe7497nfZFFU7LtDmt2NrC_ko8wU28E2zdXFoqe7b8O9wCsUukUenwDQ",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjYiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTAuMC42LmV4ZSIsInNoYTI1NiI6IjY3NDE1MzdhNWM5MDhiOTYzNGNiMzFhZWUwMzEwMjA5YjY1Y2JlNjNjMWFlM2NiOWYxYjI4MTkwMjRjNzY3MzYiLCJzaXplIjo5MTUwMjg0NiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21haGZvdWRoYTA5MS9tYXRqYXJpLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjAuNi9NYXRqYXJpLVNldHVwLTAuMC42LmV4ZSIsIm5vdGVzIjoiZml4IHNvbWUgZXJyb3JzIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wNy0yOVQwMToyOToyNS42OTNaIn0.CaKr32WSrm7vEp4nmzTz22PiJlLzXDTNiTiOfqBSRWaAuG2otJFikuWnnmPeSq7fvCvfzQ3-M1_AVBZG-TfzBg",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "0.0.4",
-  "file_name": "Matjari-Setup-0.0.4.exe",
-  "sha256": "676968bc08059373d8415d9e1a1313733f12d37bcebe7974596b72053c91ac80",
-  "size": 91469130,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.4/Matjari-Setup-0.0.4.exe",
-  "notes": "اول نسخة",
-  "published_at": "2026-07-24T23:07:32.512Z"
+  "version": "0.0.6",
+  "file_name": "Matjari-Setup-0.0.6.exe",
+  "sha256": "6741537a5c908b9634cb31aee0310209b65cbe63c1ae3cb9f1b2819024c76736",
+  "size": 91502846,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.6/Matjari-Setup-0.0.6.exe",
+  "notes": "fix some errors",
+  "published_at": "2026-07-29T01:29:25.693Z"
 }
