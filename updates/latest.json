@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjkiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTAuMC45LmV4ZSIsInNoYTI1NiI6ImQzZTQ2ZDQwYjYyYWQ5YzkwYzA4ZWM1MmQ4MmY2NzUxZDQ4MzEwZGI5YWQ1Y2Y4ZDhjMzFkMzg4NmJkZjFjNWUiLCJzaXplIjo5MTUzMDAyNCwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21haGZvdWRoYTA5MS9tYXRqYXJpLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjAuOS9NYXRqYXJpLVNldHVwLTAuMC45LmV4ZSIsIm5vdGVzIjoiIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wNy0zMVQyMzozMzo1Ni4wOTlaIn0.RE-qamt6ipgYQcSJEo6fhDD5NumQFuICHOtIgsiUmdR6icbKXcyT2FKfCHxPNS1PSEV09GvxqDDt1oizjlVBCA",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjEwIiwiZmlsZV9uYW1lIjoiTWF0amFyaS1TZXR1cC0wLjAuMTAuZXhlIiwic2hhMjU2IjoiZTI1NGFlMmJiODI4OWM5ZjM1MzcxYTNhMDM2ZTQ4NGI2NDEyZmE2MjJkZjNiOGMyNWUxMzdjYzU0ZGE4ZmYwNCIsInNpemUiOjkxNTMxMDkxLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbWFoZm91ZGhhMDkxL21hdGphcmktcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjAuMC4xMC9NYXRqYXJpLVNldHVwLTAuMC4xMC5leGUiLCJub3RlcyI6IiIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMDgtMDJUMTE6NDI6NDguNDcyWiJ9.7rwC7azFynjaeGz0HByb50PWLZkSn5w-mSDBPP8vZ-ihI2pAn01hRBnJTf6z9p1ngjujzjQXVmEcBDzkWROUCQ",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "0.0.9",
-  "file_name": "Matjari-Setup-0.0.9.exe",
-  "sha256": "d3e46d40b62ad9c90c08ec52d82f6751d48310db9ad5cf8d8c31d3886bdf1c5e",
-  "size": 91530024,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.9/Matjari-Setup-0.0.9.exe",
+  "version": "0.0.10",
+  "file_name": "Matjari-Setup-0.0.10.exe",
+  "sha256": "e254ae2bb8289c9f35371a3a036e484b6412fa622df3b8c25e137cc54da8ff04",
+  "size": 91531091,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.10/Matjari-Setup-0.0.10.exe",
   "notes": "",
-  "published_at": "2026-07-31T23:33:56.099Z"
+  "published_at": "2026-08-02T11:42:48.472Z"
 }
