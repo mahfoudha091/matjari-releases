@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjExIiwiZmlsZV9uYW1lIjoiTWF0amFyaS1TZXR1cC0wLjAuMTEuZXhlIiwic2hhMjU2IjoiOTIyZmNmYTg5MzNjZTI4NDFjYmUyNTlkZTZlYWQyMjlkM2FlMDU4ODg3ZjRkZjM0YWVhNzVhNDZiODdkNzk1NSIsInNpemUiOjkxNTI5ODYyLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbWFoZm91ZGhhMDkxL21hdGphcmktcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjAuMC4xMS9NYXRqYXJpLVNldHVwLTAuMC4xMS5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2KrYrdmE2YrZhCDYp9mE2LLYqNmG2KfYoSIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMDgtMDNUMDA6NDY6MjguNTE1WiJ9.HdXlws-Y53WaASfPs3snLW280IfWXaGAYIEYwZg9l8OBC7VW8IGQplgn8QkjbSO7u-r6LhSHU9apRA-Nk3g7Ag",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjEyIiwiZmlsZV9uYW1lIjoiTWF0amFyaS1TZXR1cC0wLjAuMTIuZXhlIiwic2hhMjU2IjoiN2Q1NTc4ZTkxZGU1YTQzOGNiMmZjZThiMTMxNDg3NThiMjY2Y2JjMGZmNTZjYWViMDYzMzVkODhmZGMwMmFhMCIsInNpemUiOjkxNTYzMjg2LCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbWFoZm91ZGhhMDkxL21hdGphcmktcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjAuMC4xMi9NYXRqYXJpLVNldHVwLTAuMC4xMi5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2KfZhNis2LHYryDZiNin2YTYqtiz2YjZitipIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wOC0wNFQwMDozMTo0OS45MjNaIn0._-rHlYCQWOymYrTwMW9EpVbBIfGeyavZgjs9GuO1jIJzxUnOSeuU9UCzOK2dWzAJKxCu8P8TpCZ4eeJ4YrAEDQ",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "0.0.11",
-  "file_name": "Matjari-Setup-0.0.11.exe",
-  "sha256": "922fcfa8933ce2841cbe259de6ead229d3ae058887f4df34aea75a46b87d7955",
-  "size": 91529862,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.11/Matjari-Setup-0.0.11.exe",
-  "notes": "اضافة تحليل الزبناء",
-  "published_at": "2026-08-03T00:46:28.515Z"
+  "version": "0.0.12",
+  "file_name": "Matjari-Setup-0.0.12.exe",
+  "sha256": "7d5578e91de5a438cb2fce8b13148758b266cbc0ff56caeb06335d88fdc02aa0",
+  "size": 91563286,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.12/Matjari-Setup-0.0.12.exe",
+  "notes": "اضافة الجرد والتسوية",
+  "published_at": "2026-08-04T00:31:49.923Z"
 }
