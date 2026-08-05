@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjEyIiwiZmlsZV9uYW1lIjoiTWF0amFyaS1TZXR1cC0wLjAuMTIuZXhlIiwic2hhMjU2IjoiN2Q1NTc4ZTkxZGU1YTQzOGNiMmZjZThiMTMxNDg3NThiMjY2Y2JjMGZmNTZjYWViMDYzMzVkODhmZGMwMmFhMCIsInNpemUiOjkxNTYzMjg2LCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbWFoZm91ZGhhMDkxL21hdGphcmktcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjAuMC4xMi9NYXRqYXJpLVNldHVwLTAuMC4xMi5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2KfZhNis2LHYryDZiNin2YTYqtiz2YjZitipIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wOC0wNFQwMDozMTo0OS45MjNaIn0._-rHlYCQWOymYrTwMW9EpVbBIfGeyavZgjs9GuO1jIJzxUnOSeuU9UCzOK2dWzAJKxCu8P8TpCZ4eeJ4YrAEDQ",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMC4wLjE0IiwiZmlsZV9uYW1lIjoiTWF0amFyaS1TZXR1cC0wLjAuMTQuZXhlIiwic2hhMjU2IjoiOGFjMWQyMDg5OTZkZjAzMGE4NGM3OTgwZjJiMTA4ZmY2MmVkZjQzNzQzNmE2Mzk3NzUwMDJhMTAxMTAzZGFjMyIsInNpemUiOjExNTMzOTQ3OCwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21haGZvdWRoYTA5MS9tYXRqYXJpLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjAuMTQvTWF0amFyaS1TZXR1cC0wLjAuMTQuZXhlIiwibm90ZXMiOiLYp9mI2YQg2YbYs9iu2Kkg2KrYrNix2YrYqNmK2KkiLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTA4LTA1VDAxOjI1OjI2LjM3OFoifQ.4S4xlnMyTmJLnw1k_VMl_gyAcvul_yhY8jGdv0TJfWIhlBRg1bVxMT6ETg3c8xeSFYkPhd-HPc9f9HQiFVTwCQ",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "0.0.12",
-  "file_name": "Matjari-Setup-0.0.12.exe",
-  "sha256": "7d5578e91de5a438cb2fce8b13148758b266cbc0ff56caeb06335d88fdc02aa0",
-  "size": 91563286,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.12/Matjari-Setup-0.0.12.exe",
-  "notes": "اضافة الجرد والتسوية",
-  "published_at": "2026-08-04T00:31:49.923Z"
+  "version": "0.0.14",
+  "file_name": "Matjari-Setup-0.0.14.exe",
+  "sha256": "8ac1d208996df030a84c7980f2b108ff62edf437436a639775002a101103dac3",
+  "size": 115339478,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v0.0.14/Matjari-Setup-0.0.14.exe",
+  "notes": "اول نسخة تجريبية",
+  "published_at": "2026-08-05T01:25:26.378Z"
 }
