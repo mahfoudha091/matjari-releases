@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4wLjAiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMC4wLmV4ZSIsInNoYTI1NiI6ImU5MTc2ODU5NTBjYWFiY2ExNDRkNGZkN2QwYjE2NDEzYzQ5YjJjMTcxMjk0MWJlYjEzNTJlYWVkYzRjMmVjM2YiLCJzaXplIjoxMTU0NTE2NDQsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4wLjAvTWF0amFyaS1TZXR1cC0xLjAuMC5leGUiLCJub3RlcyI6Itij2YjZhCDZhtiz2K7YqSDZhdi52KrZhdiv2KkgIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wOC0wNlQyMzo0NDo1Ny42NzBaIn0.q8O8mpCrd2KE2zbp2nccTCL4NHPhknLyo0Jujn3TGg_Xi1zcdUpUNrIwF2M-FU0lRtNvV5lbRKVy7jqQ4eqJAA",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4wLjIiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMC4yLmV4ZSIsInNoYTI1NiI6IjhhOTlhMDIyNDZiM2ZjOTJiMDVlMjAzNTQxOWY2NTQ2MWQyYTZmMzcyNzRlZDk5Mzg2YjBlMzA0NTJlYWU1MWMiLCJzaXplIjoxMTU0ODExMjksInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4wLjIvTWF0amFyaS1TZXR1cC0xLjAuMi5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2LHYtdmK2K8g2KfZgdiq2KrYp9it2Yog2YTZhNiy2KjZhtin2KEg2Ygg2KfZhNmF2YjYsdiv2YrZhiAuLi4iLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTA4LTA3VDIxOjM4OjMxLjQ2MloifQ.1i15OuBo9JIDXZoUBmReBzdJiHpC4rTf6ozODzjKq2i-lFS7QrGQ4Qf5pDinYoG_BzNVvkTQFQhb72-jFRl1CA",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.0.0",
-  "file_name": "Matjari-Setup-1.0.0.exe",
-  "sha256": "e917685950caabca144d4fd7d0b16413c49b2c1712941beb1352eaedc4c2ec3f",
-  "size": 115451644,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.0.0/Matjari-Setup-1.0.0.exe",
-  "notes": "أول نسخة معتمدة ",
-  "published_at": "2026-08-06T23:44:57.670Z"
+  "version": "1.0.2",
+  "file_name": "Matjari-Setup-1.0.2.exe",
+  "sha256": "8a99a02246b3fc92b05e2035419f65461d2a6f37274ed99386b0e30452eae51c",
+  "size": 115481129,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.0.2/Matjari-Setup-1.0.2.exe",
+  "notes": "اضافة رصيد افتتاحي للزبناء و الموردين ...",
+  "published_at": "2026-08-07T21:38:31.462Z"
 }
