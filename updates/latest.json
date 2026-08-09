@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4wLjIiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMC4yLmV4ZSIsInNoYTI1NiI6IjhhOTlhMDIyNDZiM2ZjOTJiMDVlMjAzNTQxOWY2NTQ2MWQyYTZmMzcyNzRlZDk5Mzg2YjBlMzA0NTJlYWU1MWMiLCJzaXplIjoxMTU0ODExMjksInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4wLjIvTWF0amFyaS1TZXR1cC0xLjAuMi5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2LHYtdmK2K8g2KfZgdiq2KrYp9it2Yog2YTZhNiy2KjZhtin2KEg2Ygg2KfZhNmF2YjYsdiv2YrZhiAuLi4iLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTA4LTA3VDIxOjM4OjMxLjQ2MloifQ.1i15OuBo9JIDXZoUBmReBzdJiHpC4rTf6ozODzjKq2i-lFS7QrGQ4Qf5pDinYoG_BzNVvkTQFQhb72-jFRl1CA",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4wLjMiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMC4zLmV4ZSIsInNoYTI1NiI6ImQwZjc1MWEyNDI5Y2MxZWVhZmVjZjQ5OTVhMGExMWQyZmM3Mjc2NWVjNDljMzlhYjNhNzRhNDE0N2U1NWU1YzAiLCJzaXplIjoxMTU1MDEwODYsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4wLjMvTWF0amFyaS1TZXR1cC0xLjAuMy5leGUiLCJub3RlcyI6Itio2LnYtiDYp9mE2KrYrdiv2YrYq9in2KoiLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTA4LTA5VDIzOjM2OjU1LjQxMFoifQ.8X1H0ilxtfk8GWUCfeBuj1f2XZr51nGlH9c2x4Gyx87DiL5h1Srr66JVX_jCQYGWm1mRRoLX98r_MJuRVKHDBw",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.0.2",
-  "file_name": "Matjari-Setup-1.0.2.exe",
-  "sha256": "8a99a02246b3fc92b05e2035419f65461d2a6f37274ed99386b0e30452eae51c",
-  "size": 115481129,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.0.2/Matjari-Setup-1.0.2.exe",
-  "notes": "اضافة رصيد افتتاحي للزبناء و الموردين ...",
-  "published_at": "2026-08-07T21:38:31.462Z"
+  "version": "1.0.3",
+  "file_name": "Matjari-Setup-1.0.3.exe",
+  "sha256": "d0f751a2429cc1eeafecf4995a0a11d2fc72765ec49c39ab3a74a4147e55e5c0",
+  "size": 115501086,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.0.3/Matjari-Setup-1.0.3.exe",
+  "notes": "بعض التحديثات",
+  "published_at": "2026-08-09T23:36:55.410Z"
 }
