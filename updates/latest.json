@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4yLjIiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMi4yLmV4ZSIsInNoYTI1NiI6IjhkZjY1NjBjZDk2ZjZiM2YzNmNiMTJmNDM0OTFhNzdkMTVjZWM2MDJlODlhMDcwMWYxM2E1YTJkMjQwZWVhOTUiLCJzaXplIjoxMTU1OTQ4NzMsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4yLjIvTWF0amFyaS1TZXR1cC0xLjIuMi5leGUiLCJub3RlcyI6Itil2LbYp9mB2Kkg2LPYrdioINmI2KfYs9iq2YTYp9mFINmB2YjYp9iq2YrYsSDZhdik2KzZhNipIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wOS0wMlQxMjoyMjoyNC44NDZaIn0.pEmoCSOYR7gNtdop08c7gJCP2V2Fn7MKg2VGB_qBALeUr5oTHx0Wyj-cD7LpRHQ6EfFCPuSgbNJH2tyylnsDCg",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4yLjMiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMi4zLmV4ZSIsInNoYTI1NiI6IjljMzYzZTAwNjZkNjg2MmVjNmYxZTI5ZGQzOTBiYzYzNmRiNjU5OTIxZGE4YTdlYWYwNDYxOGMzNDc3NDRiODQiLCJzaXplIjoxMTU1ODc4ODUsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4yLjMvTWF0amFyaS1TZXR1cC0xLjIuMy5leGUiLCJub3RlcyI6ItmG2LPYrtipIExUUyAiLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTA5LTA5VDAxOjQ2OjI4LjAxMVoifQ.Nd5IdvVMbhjnJeQ4pjDNLjKEIJOYIF585_QR5ixUV5qX_XwsC9oh-qiBLaNMwg6mmSWarGfilVpb6Pm81Ku0Cw",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.2.2",
-  "file_name": "Matjari-Setup-1.2.2.exe",
-  "sha256": "8df6560cd96f6b3f36cb12f43491a77d15cec602e89a0701f13a5a2d240eea95",
-  "size": 115594873,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.2.2/Matjari-Setup-1.2.2.exe",
-  "notes": "إضافة سحب واستلام فواتير مؤجلة",
-  "published_at": "2026-09-02T12:22:24.846Z"
+  "version": "1.2.3",
+  "file_name": "Matjari-Setup-1.2.3.exe",
+  "sha256": "9c363e0066d6862ec6f1e29dd390bc636db659921da8a7eaf04618c347744b84",
+  "size": 115587885,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.2.3/Matjari-Setup-1.2.3.exe",
+  "notes": "نسخة LTS ",
+  "published_at": "2026-09-09T01:46:28.011Z"
 }
