@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4yLjUiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMi41LmV4ZSIsInNoYTI1NiI6ImE0ODliNTVhMzk2ODI2Njc1OTc5Nzg4ZGZhZTBkYmRhODQ2OGQ1ZTY1ZGNmNWE4NGJlNWJhNzBiMzQ3M2YzNWUiLCJzaXplIjoxMTU2MDkxMzksInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4yLjUvTWF0amFyaS1TZXR1cC0xLjIuNS5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2LfYsdmK2YLYqSDYp9mE2LnZhdmEINi52YTZiSDZiNmG2K_ZiNiyIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wOS0xMVQxODowMDowNi40OTJaIn0.Bfrpkm4Yr_MRf915t0YJUj2Wm0gEEnEo7_ZAcSA_YeETTOI89Im1vfkugY6VTtGkrcThnTqEM-6sXQEicPwJDw",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4zLjEiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMy4xLmV4ZSIsInNoYTI1NiI6IjA3YWFhNTE2ZTQyYmFjMjFlN2E0NjlkYmU0OGRkMTNiY2I2NTc5MmExMmZkYjgzZmFhMzA5YjhkZWI4ZmMzMDIiLCJzaXplIjoxMTU2MjY2NzgsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjEvTWF0amFyaS1TZXR1cC0xLjMuMS5leGUiLCJub3RlcyI6Itin2YTZhtiz2K7YqSDYsdmC2YUgMSDYp9mE2YXYudiq2YXYr9ipIExUUyIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMDktMTNUMTM6MzY6MDYuMDM0WiJ9.gMNXJ4GLxmckJmJ8TltphnUaXo2yITsUmXZVoaJOObjEhMQA_ouoO5ud3XtokDO_mMs-IZQEhmBDmRKhyVRWDw",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.2.5",
-  "file_name": "Matjari-Setup-1.2.5.exe",
-  "sha256": "a489b55a396826675979788dfae0dbda8468d5e65dcf5a84be5ba70b3473f35e",
-  "size": 115609139,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.2.5/Matjari-Setup-1.2.5.exe",
-  "notes": "اضافة طريقة العمل على وندوز",
-  "published_at": "2026-09-11T18:00:06.492Z"
+  "version": "1.3.1",
+  "file_name": "Matjari-Setup-1.3.1.exe",
+  "sha256": "07aaa516e42bac21e7a469dbe48dd13bcb65792a12fdb83faa309b8deb8fc302",
+  "size": 115626678,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.3.1/Matjari-Setup-1.3.1.exe",
+  "notes": "النسخة رقم 1 المعتمدة LTS",
+  "published_at": "2026-09-13T13:36:06.034Z"
 }
