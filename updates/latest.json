@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4zLjQiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMy40LmV4ZSIsInNoYTI1NiI6IjY2NzlkYzQyZWZiYjc3Njc1MGZlMzhhYjc5NzczYWQ1YzRlYTZmNjFjNjQ3NjYzNmNlMDUzMmUwYjA0NWEzNmYiLCJzaXplIjoxMTU2NTQxNjksInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjQvTWF0amFyaS1TZXR1cC0xLjMuNC5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2KrYudiv2YrZhCDYp9mE2YHYp9iq2YjYsdipINiq2YHYudmEINmF2YYg2KfZhNin2LnYr9in2K_Yp9iqIiwicHVibGlzaGVkX2F0IjoiMjAyNi0wOS0xNlQwMTozMzoxMC45NDRaIn0.YmiiywnpUCe9kanw3sJmSi9OIrR78oiFEykK-eicpt61mPJ7RzUt0f20lzc78jAVPJ9CulAH_84ErwmOub-lCw",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS4zLjUiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuMy41LmV4ZSIsInNoYTI1NiI6IjM0NGU1MjBjYmViNDU4MWJmYTRkZmVmMzRjY2Q4ZGM2Y2I0M2JhMWRhNTYxNmE2ZWM2YWU5OTY0YjNkOTQ4YTUiLCJzaXplIjoxMTU2NjkyNTQsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjUvTWF0amFyaS1TZXR1cC0xLjMuNS5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2KjYudi1INin2YTYrti12KfYpti1INmIINin2YTYp9i12YTYp9it2KfYqiIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMDktMTdUMjI6NDg6NTguMzMwWiJ9.B3h_uuWLZW2TqHnKdfYeXTdIS5RmfEkZZSJqKT8ODIFzW7xexfAGe78NAzF-Px2gIPaKT68hXKk-DXfcUWA4Cw",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.3.4",
-  "file_name": "Matjari-Setup-1.3.4.exe",
-  "sha256": "6679dc42efbb776750fe38ab79773ad5c4ea6f61c6476636ce0532e0b045a36f",
-  "size": 115654169,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.3.4/Matjari-Setup-1.3.4.exe",
-  "notes": "اضافة تعديل الفاتورة تفعل من الاعدادات",
-  "published_at": "2026-09-16T01:33:10.944Z"
+  "version": "1.3.5",
+  "file_name": "Matjari-Setup-1.3.5.exe",
+  "sha256": "344e520cbeb4581bfa4dfef34ccd8dc6cb43ba1da5616a6ec6ae9964b3d948a5",
+  "size": 115669254,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.3.5/Matjari-Setup-1.3.5.exe",
+  "notes": "اضافة بعص الخصائص و الاصلاحات",
+  "published_at": "2026-09-17T22:48:58.330Z"
 }
