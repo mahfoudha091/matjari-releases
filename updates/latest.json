@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS40LjIiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuNC4yLmV4ZSIsInNoYTI1NiI6Ijk4NGQ3YWI1MGE2NmJmYWUwNzgyNGZlNGVmNTMzZmE4NzUxNzg0YTEwOGVmZGNhYmMzMGQ4YTdlOWRkNTcyOTUiLCJzaXplIjoxMTU3NTQwNjQsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS40LjIvTWF0amFyaS1TZXR1cC0xLjQuMi5leGUiLCJub3RlcyI6Itiq2K3Ys9mK2YbYp9iqINmB2Yog2KfZhNin2KrYtdin2YQg2KjZitmGINin2YTYrdmI2KfYs9mK2KgiLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTEwLTI2VDIyOjIwOjM2LjUxMloifQ.a44eoNkAUqu9OBJbHrrsMJi0miIGhq0sTqAmrRyvSJZiK8_dsqkg_IEttJNXRCdogL4s_YhG3g7etD2_r2TlCA",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS40LjMiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuNC4zLmV4ZSIsInNoYTI1NiI6IjUzZjNjY2Q3YmQ5YmI5MjUxMmYxNzQzZjAwNzBlYjkyNDg0ZmVmYzVjMTc5NmU1MjQ3OTY0MWY5NWI1YmU3MDQiLCJzaXplIjoxMTU3ODcyNDIsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS40LjMvTWF0amFyaS1TZXR1cC0xLjQuMy5leGUiLCJub3RlcyI6Itin2LjZh9in2LEg2KfZhNmB2YjYp9iq2YrYsSDZgdmKINit2KfZhNipINin2YTYt9mI2KfYsdmKIiwicHVibGlzaGVkX2F0IjoiMjAyNi0xMC0zMFQxMDozODo1MS40MjRaIn0.Wq3JaBQvovdddtSnDv4HunXZEoW939cA4E3iVn4eU_lUK16NIOH8netrNPFoA5hpuouhqfmGjUDkvqZrilDMDA",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.4.2",
-  "file_name": "Matjari-Setup-1.4.2.exe",
-  "sha256": "984d7ab50a66bfae07824fe4ef533fa8751784a108efdcabc30d8a7e9dd57295",
-  "size": 115754064,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.4.2/Matjari-Setup-1.4.2.exe",
-  "notes": "تحسينات في الاتصال بين الحواسيب",
-  "published_at": "2026-10-26T22:20:36.512Z"
+  "version": "1.4.3",
+  "file_name": "Matjari-Setup-1.4.3.exe",
+  "sha256": "53f3ccd7bd9bb92512f1743f0070eb92484fefc5c1796e52479641f95b5be704",
+  "size": 115787242,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.4.3/Matjari-Setup-1.4.3.exe",
+  "notes": "اظهار الفواتير في حالة الطواري",
+  "published_at": "2026-10-30T10:38:51.424Z"
 }
