@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS40LjgiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuNC44LmV4ZSIsInNoYTI1NiI6ImFlNWU0Yjg1OTNmMGJhYjY3Y2U2MzJhNjBhNjVjZTk0MjlmMjVmMjlhZGE5NDM5MGRhZjQ4ODlmMzQ2ZTM1YzciLCJzaXplIjoxMTU4MjY3NjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS40LjgvTWF0amFyaS1TZXR1cC0xLjQuOC5leGUiLCJub3RlcyI6Itin2LbYp9mB2Kkg2KjYudi2INin2YTYqtit2K_Zitir2KfYqiIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMTEtMTBUMDk6MjQ6MDIuNTcyWiJ9.pIzraqu7tFOVXRSk6NgygEPpGJtttYJwNxMO2oDf0d8Jmx0W361A-bFhZ7UUJxLIXxR-0GqcVyHE_6ANmtYrCw",
+  "token": "eyJwcm9ncmFtIjoiTWF0amFyaSIsImtpbmQiOiJVUERBVEUiLCJ2ZXJzaW9uIjoiMS40LjkiLCJmaWxlX25hbWUiOiJNYXRqYXJpLVNldHVwLTEuNC45LmV4ZSIsInNoYTI1NiI6IjA2NTk5YWIxYTQ1ODQ1NjU2NGVmMjcyZjZjYTRhMWY5YzNiNzYzZjRkODEzMzBlMjI0YTc5ZTNiZDQ2OTdmOGMiLCJzaXplIjoxMTU4MjA3ODEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWF0amFyaS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS40LjkvTWF0amFyaS1TZXR1cC0xLjQuOS5leGUiLCJub3RlcyI6Itiq2K3Ys9mK2YbYp9iqINis2K_Zitiv2KkiLCJwdWJsaXNoZWRfYXQiOiIyMDI2LTExLTEwVDIzOjM1OjQxLjA4N1oifQ.8wRjumHclDgz2dGhIrJUa3cuG0JeHkJkETN9GGPpmIGnWmfhoH3YyaSgi575Wxi5le6nMEOfr8E73n0x2iiPCQ",
   "program": "Matjari",
   "kind": "UPDATE",
-  "version": "1.4.8",
-  "file_name": "Matjari-Setup-1.4.8.exe",
-  "sha256": "ae5e4b8593f0bab67ce632a60a65ce9429f25f29ada94390daf4889f346e35c7",
-  "size": 115826761,
-  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.4.8/Matjari-Setup-1.4.8.exe",
-  "notes": "اضافة بعض التحديثات",
-  "published_at": "2026-11-10T09:24:02.572Z"
+  "version": "1.4.9",
+  "file_name": "Matjari-Setup-1.4.9.exe",
+  "sha256": "06599ab1a458456564ef272f6ca4a1f9c3b763f4d81330e224a79e3bd4697f8c",
+  "size": 115820781,
+  "url": "https://github.com/mahfoudha091/matjari-releases/releases/download/v1.4.9/Matjari-Setup-1.4.9.exe",
+  "notes": "تحسينات جديدة",
+  "published_at": "2026-11-10T23:35:41.087Z"
 }
